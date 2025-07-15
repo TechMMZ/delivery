@@ -1,0 +1,15 @@
+src/
+    components/Footer.jsx
+              Navbar,jsx
+              ProductCard.jsx
+    Context/AuthContext.jsx
+            CartContext.jsx
+    pages/Cart.jsx
+          Categories.jsx
+          Checkout.jsx
+          Home.jsx
+          Login.jsx
+          ProductDetails.jsx
+          Product.jsx
+          Profile.jsx
+          Register.jsx
